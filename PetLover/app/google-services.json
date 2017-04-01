@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383415248601",
+    "firebase_url": "https://pet-lover-f5163.firebaseio.com",
+    "project_id": "pet-lover-f5163",
+    "storage_bucket": "pet-lover-f5163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383415248601:android:6b08feecdb9ef1bd",
+        "android_client_info": {
+          "package_name": "orgm.androidtown.petlover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383415248601-c53h1ekjad3h12pvlk8i68p203spaavc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "orgm.androidtown.petlover",
+            "certificate_hash": "47d2531a7e00b9b56ce2e4de3fc87e20cef86550"
+          }
+        },
+        {
+          "client_id": "383415248601-jgo8tslkla162bskj7erojkrhv6bfmud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBre11XRszRabJZIfFdRzS6fod4II_BJWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383415248601-jgo8tslkla162bskj7erojkrhv6bfmud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
